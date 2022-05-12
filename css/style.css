@@ -5,3 +5,16 @@
     margin: 0;
     font-family: 'Fredoka', sans-serif;
 }
+
+h1 {
+    color: #E53170;
+    font-size: 34px;
+}
+
+h1, p {text-align: center;}
+
+/* Header */
+.container{
+    max-width: 1000px;
+    margin: 40px auto;
+}
